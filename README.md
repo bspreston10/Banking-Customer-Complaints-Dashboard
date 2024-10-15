@@ -1,5 +1,5 @@
 # Banking-Customer-Complaints-Dashboard
-SQL | Tableau
+SQL | Tableau: Clean, filtered, and aggregated over 10,000 rows of data in SQL and vizualized specific KPIs and metrics in Tableau
 
 <img width="1443" alt="Screenshot 2024-10-15 at 12 38 58 PM" src="https://github.com/user-attachments/assets/5f1585f1-cedc-489d-a1e5-cd2460345745">
 
